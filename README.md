@@ -1,16 +1,54 @@
-## Hi there 👋
+# Welcome to My GitHub Profile 👋
 
-<!--
-**ishika-244/ishika-244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm an aspiring **Data Analyst/Scientist** passionate about harnessing the power of data to drive insights and decisions. I have a strong background in **Python**, **Machine Learning (ML)**, **Natural Language Processing (NLP)**, **Data Visualization**, **SQL**, and the **Pandas & NumPy** libraries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I’m building my skills in data science and looking to apply them in real-world projects. Feel free to explore my repositories where I share projects that showcase my knowledge and skills in these areas.
+
+---
+
+## Skills
+
+- **Programming Languages**: Python, SQL
+- **Data Science & Machine Learning**: ML models, NLP, Data Preprocessing
+- **Data Analysis**: Pandas, NumPy, Data Cleaning & Wrangling
+- **Data Visualization**: Matplotlib, Seaborn, Plotly
+- **Databases**: MySQL, PostgreSQL
+- **Tools & Frameworks**: Jupyter, Streamlit, Scikit-learn, TensorFlow
+
+---
+
+## Featured Projects
+
+### 1. **Sentiment-Enhanced Book Recommender** 📚
+A book recommendation system enhanced with sentiment analysis using NLTK and a hybrid ML algorithm. Built using Python, Pandas, Numpy, and Streamlit for the user interface.
+
+![Book Recommender](https://via.placeholder.com/600x300.png)
+
+[Project Link](https://github.com/yourusername/BookSense)
+
+### 2. **coffee shop sales analysis** 🔄
+	Analyzed coffee shop sales data using SQL to identify patterns,Performed data cleaning, processing, and visualization to derive actionable insights using Power BI .
+ 
+
+[Project Link](https://github.com/yourusername/Customer-Churn)
+
+---
+
+## Contact Me 📬
+
+Feel free to reach out for collaborations or any questions:
+
+- Email: [ishikajaswal57@gmail.com](mailto:ishikajaswal57@gmail.com)
+- LinkedIn: [www.linkedin.com/in/ishika-jaswal](www.linkedin.com/in/ishika-jaswal)
+---
+
+## Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/ishika-jaswal)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/yourusername)
+
+---
+
+## Let's Build Something Great Together! 🚀
