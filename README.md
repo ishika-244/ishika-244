@@ -24,15 +24,12 @@ Currently, I’m building my skills in data science and looking to apply them in
 ### 1. **Sentiment-Enhanced Book Recommender** 📚
 A book recommendation system enhanced with sentiment analysis using NLTK and a hybrid ML algorithm. Built using Python, Pandas, Numpy, and Streamlit for the user interface.
 
-![Book Recommender](https://via.placeholder.com/600x300.png)
 
-[Project Link](https://github.com/yourusername/BookSense)
 
 ### 2. **coffee shop sales analysis** 🔄
 	Analyzed coffee shop sales data using SQL to identify patterns,Performed data cleaning, processing, and visualization to derive actionable insights using Power BI .
  
 
-[Project Link](https://github.com/yourusername/Customer-Churn)
 
 ---
 
