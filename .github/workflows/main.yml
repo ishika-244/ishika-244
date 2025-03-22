@@ -1,0 +1,17 @@
+name: Run Colab Notebook
+
+on:
+  schedule:
+    - cron: "30 21 * * *"  
+
+jobs:
+  execute:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Run Colab Notebook
+        run: |
+          curl -X POST "https://colab.research.google.com/drive/1TKyHzuNppR_qklLAy3WQ4_2S351F8Fxc#scrollTo=2uXwAT1a1ULT"
+
