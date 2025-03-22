@@ -2,7 +2,7 @@ name: Run Colab Notebook
 
 on:
   schedule:
-    - cron: "30 21 * * *"  
+    - cron: "30 21 * * *"  # Runs daily at 9:30 AM UTC
 
 jobs:
   execute:
@@ -11,7 +11,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+
+      - name: Install dependencies
+        run: |
+          pip install papermill nbconvert
+
       - name: Run Colab Notebook
         run: |
-          curl -X POST "https://colab.research.google.com/drive/1TKyHzuNppR_qklLAy3WQ4_2S351F8Fxc#scrollTo=2uXwAT1a1ULT"
-
+          papermill "Data_Automation.ipynb" "Output.ipynb"
